@@ -1,0 +1,12 @@
+{
+  "name": "Together We Grow — Student Hub",
+  "short_name": "TWG Student Hub",
+  "description": "Rompetrol Traineeship Program student community hub",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8fb",
+  "theme_color": "#087dbb",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
